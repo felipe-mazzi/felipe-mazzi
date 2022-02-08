@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @felipe-mazzi, a physics Master's Student at the University of Campinas. I share code I create for my research project in the field of experimental quantum optics. This includes mostly instrument control software, as well as experimental and simulation data analysis.
+- 👋 Hi, I'm @felipe-mazzi, a physics Master's Student at the University of Campinas. I share code I create for my research project in the field of experimental quantum optics. This includes mostly data analysis of experiments and simulations, instrument control software and notex taken on nonlinear and quantum optics.
 
 
 <!---
